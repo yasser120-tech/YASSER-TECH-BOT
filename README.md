@@ -1,2 +1,16 @@
 # YASSER-TECH-BOT
- An advanced WhatsApp bot built with automation features including auto-reply, typing simulation, one-time view, and more. Designed to simplify daily tasks, enhance communication, and boost engagement on WhatsApp. Easily customizable and user-friendly for both beginners and developers. For more update follow my WhatsApp channel 👇🏻👇🏻
+
+Simple WhatsApp bot using Meta Cloud API.
+
+## HOW TO CONNECT
+
+1. Go to Facebook Developers > WhatsApp Cloud API
+2. Copy:
+   - PHONE_NUMBER_ID
+   - WHATSAPP_TOKEN
+3. Replace inside index.js:
+   - YOUR_PHONE_ID
+   - YOUR_ACCESS_TOKEN
+4. Verify webhook using:
+   - /webhook
+   - verify token: yasser_token
