@@ -1,5 +1,4 @@
 # YASSER-TECH-BOT
-
 Simple WhatsApp bot using Meta Cloud API.
 
 ## HOW TO CONNECT
